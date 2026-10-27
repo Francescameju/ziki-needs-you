@@ -2,7 +2,7 @@
 
 A prototype for Ziki (HNG15, Week 15): one inbox where agent owners answer only the decisions their agents can't make alone.
 
-**Live:** https://francescameju.github.io/ziki-needs-you/
+**Live:** https://francescameju.github.io/Ziki-needs-you/
 
 - **Decide now:** agent requests sorted by deadline, each with a countdown, the agent's reasoning, the cost of waiting, and one-tap answers.
 - **Make it a rule:** turn an answer into a standing rule so the agent asks less next time.
